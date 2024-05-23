@@ -64,10 +64,7 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-温州新闻综合,http://live.wzqmt.com/wztv1/sd/live.m3u8
-温州经济科教,http://live.wzqmt.com/wztv2/sd/live.m3u8
-温州都市生活,http://live.wzqmt.com/wztv3/sd/live.m3u8
-温州公共频道,http://live.wzqmt.com/wztv4/sd/live.m3u8
+
 东方财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 
@@ -128,5 +125,4 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
 
