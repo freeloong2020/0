@@ -123,18 +123,12 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民視新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-创世.电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 
